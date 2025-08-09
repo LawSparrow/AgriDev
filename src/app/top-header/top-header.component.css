@@ -1,0 +1,10 @@
+.title-toolbar {
+    background-color: black;
+}
+
+.title-center {
+  margin: 0 auto;
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: italic;
+}
